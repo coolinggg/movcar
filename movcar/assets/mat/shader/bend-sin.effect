@@ -1,0 +1,84 @@
+CCEffect %{
+      techniques:
+      - name: opaque
+        passes:
+        - vert: unlit-vs:vert
+          frag: unlit-fs:frag
+          properties: &props
+            mainTexture:  { value: grey         }
+            allOffset:    { value: [1,1, 0, 0] }
+            dist:         { value: 100            }
+            color: { value: [1, 1, 1, 1], editor: { type: color } }
+      - name: transparent
+        passes:
+        - vert: unlit-vs:vert
+          frag: unlit-fs:frag
+          depthStencilState:
+            depthTest: true
+            depthWrite: false
+          blendState:
+            targets:
+            - blend: true
+              blendSrc: src_alpha
+              blendDst: one_minus_src_alpha
+              blendDstAlpha: one_minus_src_alpha
+          properties: *props
+    }%
+
+    CCProgram unlit-vs %{
+      precision highp float;
+      #include <cc-global>
+      #include <decode-base>
+      #include <cc-local-batch>
+      #include <input>
+
+      
+      out vec2 v_uv;
+
+      uniform TextCoords {
+        vec4 allOffset;
+        float dist;
+      };
+
+        vec4 vert () {
+        vec4 position;
+        CCVertInput(position);
+
+        mat4 matWorld;
+        CCGetWorldMatrix(matWorld);
+
+        vec4 vpos = cc_matView * matWorld * position;
+        float zOff = vpos.z / 15.0;
+        //vpos += allOffset * zOff * zOff;
+        vpos += vec4(sin(cc_time.x),-1.0, 0.0, 0.0) * zOff * zOff;
+        vec4 pos = cc_matProj * vpos;
+
+        v_uv = a_texCoord;
+        v_uv = v_uv * allOffset.xy + allOffset.zw;
+        #if FLIP_UV
+          v_uv.y = 1.0 - v_uv.y;
+        #endif
+        return pos;
+      }
+    }%
+
+    CCProgram unlit-fs %{
+      precision highp float;
+      #include <output>
+
+      in vec2 v_uv;
+      uniform sampler2D mainTexture;
+
+      uniform Constants {
+        vec4 color;
+      };
+
+      vec4 frag () {
+        vec4 o = vec4(1, 1, 1, 1);
+
+        o *= texture(mainTexture, v_uv);
+        o *= color;
+
+        return CCFragOutput(o);
+      }
+    }% 

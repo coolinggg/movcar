@@ -1,0 +1,12 @@
+{
+  "ver": "4.0.23",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "0bb99b2e-d8eb-459f-acb4-b9948ddce6c7",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "moduleId": "project:///assets/scripts/Emotion.js",
+    "simulateGlobals": []
+  }
+}

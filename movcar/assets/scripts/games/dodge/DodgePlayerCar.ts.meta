@@ -1,0 +1,12 @@
+{
+  "ver": "4.0.23",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "d787cbe7-3cb1-47b2-8540-a7b0b3a6a0b7",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "moduleId": "project:///assets/scripts/games/dodge/DodgePlayerCar.js",
+    "simulateGlobals": []
+  }
+}

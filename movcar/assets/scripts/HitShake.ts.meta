@@ -1,0 +1,12 @@
+{
+  "ver": "4.0.23",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "7015915f-aa89-4d5f-a872-742de9819420",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "moduleId": "project:///assets/scripts/HitShake.js",
+    "simulateGlobals": []
+  }
+}

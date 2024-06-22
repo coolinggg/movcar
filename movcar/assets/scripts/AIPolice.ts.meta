@@ -1,0 +1,12 @@
+{
+  "ver": "4.0.23",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "645be7ff-1bb8-4c07-8b2b-e84e128a3945",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "moduleId": "project:///assets/scripts/AIPolice.js",
+    "simulateGlobals": []
+  }
+}

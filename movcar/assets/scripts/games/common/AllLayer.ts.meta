@@ -1,0 +1,12 @@
+{
+  "ver": "4.0.23",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "f3e6d355-3a26-469a-9f3f-1923aa640b7f",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "moduleId": "project:///assets/scripts/games/common/AllLayer.js",
+    "simulateGlobals": []
+  }
+}

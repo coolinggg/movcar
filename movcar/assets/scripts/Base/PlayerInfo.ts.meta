@@ -1,0 +1,12 @@
+{
+  "ver": "4.0.23",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "e1a53fb3-45dc-41a3-ae7d-a710a0ddc4e2",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "moduleId": "project:///assets/scripts/Base/PlayerInfo.js",
+    "simulateGlobals": []
+  }
+}

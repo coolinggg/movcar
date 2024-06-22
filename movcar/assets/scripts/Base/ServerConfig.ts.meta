@@ -1,0 +1,12 @@
+{
+  "ver": "4.0.23",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "c77af794-1335-4e57-ba9c-46959669ff3d",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "moduleId": "project:///assets/scripts/Base/ServerConfig.js",
+    "simulateGlobals": []
+  }
+}

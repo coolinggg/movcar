@@ -1,0 +1,12 @@
+{
+  "ver": "4.0.23",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "ec38c872-0dfb-45f7-82d0-c2db4297ef42",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "moduleId": "project:///assets/framework3D/extension/wxsdk/WxgetInfoButton.js",
+    "simulateGlobals": []
+  }
+}

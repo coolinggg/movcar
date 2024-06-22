@@ -1,0 +1,12 @@
+{
+  "ver": "4.0.23",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "ccd78834-898a-47b4-9d6b-54fd9e6348b9",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "moduleId": "project:///assets/framework3D/utils/Mathf.js",
+    "simulateGlobals": []
+  }
+}

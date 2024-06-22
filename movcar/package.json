@@ -1,0 +1,31 @@
+{
+  "name": "摆摊神车2",
+  "uuid": "b7f8359c-5a9e-48e8-964d-afc3375b6b25",
+  "version": "3.5.2",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "csv-dts": "node tools/typing_csv.js",
+    "vm-dts": "node tools/typing_vm.js",
+    "tocsv": "node tools/tocsv.js",
+    "gen-enums": "node tools/genEnums.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitee.com:Ren.Wang/PizzaBoy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "progress": "^2.0.3",
+    "typings": "^2.1.1"
+  },
+  "creator": {
+    "version": "3.5.2"
+  },
+  "_sourceId": "5d57d000-d965-43c7-85d4-ca789c73228a",
+  "_storeId": "b6720d31a9ae86a7604ed32c7c8559de"
+}

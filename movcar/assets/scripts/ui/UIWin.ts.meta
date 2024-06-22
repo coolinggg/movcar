@@ -1,0 +1,12 @@
+{
+  "ver": "4.0.23",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "eb0c8d3b-719b-4622-b2df-4040a2ba5d4f",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "moduleId": "project:///assets/scripts/ui/UIWin.js",
+    "simulateGlobals": []
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "ver": "4.0.23",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "0d7414d2-4751-4ef1-a4e2-d04ba3c231a2",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "moduleId": "project:///assets/framework3D/misc/NumTrigger.js",
+    "simulateGlobals": []
+  }
+}

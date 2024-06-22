@@ -1,0 +1,12 @@
+{
+  "ver": "4.0.23",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "64790fa5-9b73-4348-8e3e-d54bd62aac01",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "moduleId": "project:///assets/scripts/Base/PersistNode.js",
+    "simulateGlobals": []
+  }
+}

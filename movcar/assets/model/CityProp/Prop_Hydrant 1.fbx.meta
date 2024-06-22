@@ -1,0 +1,113 @@
+{
+  "ver": "2.2.0",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "0b1bb37e-a0a9-461b-83c5-162290e05914",
+  "files": [],
+  "subMetas": {
+    "2fa04": {
+      "importer": "gltf-mesh",
+      "uuid": "0b1bb37e-a0a9-461b-83c5-162290e05914@2fa04",
+      "displayName": "",
+      "id": "2fa04",
+      "name": "Prop_Hydrant_1.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    },
+    "fd73d": {
+      "importer": "gltf-embeded-image",
+      "uuid": "0b1bb37e-a0a9-461b-83c5-162290e05914@fd73d",
+      "displayName": "",
+      "id": "fd73d",
+      "name": "DiffuseColor_Texture.image",
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    },
+    "4f17a": {
+      "importer": "texture",
+      "uuid": "0b1bb37e-a0a9-461b-83c5-162290e05914@4f17a",
+      "displayName": "",
+      "id": "4f17a",
+      "name": "DiffuseColor_Texture.texture",
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "0b1bb37e-a0a9-461b-83c5-162290e05914@fd73d"
+      }
+    },
+    "a4c97": {
+      "importer": "gltf-scene",
+      "uuid": "0b1bb37e-a0a9-461b-83c5-162290e05914@a4c97",
+      "displayName": "",
+      "id": "a4c97",
+      "name": "Prop_Hydrant 1.prefab",
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "DiffuseColor_Texture",
+        "uri": "0b1bb37e-a0a9-461b-83c5-162290e05914@fd73d"
+      }
+    ],
+    "redirect": "0b1bb37e-a0a9-461b-83c5-162290e05914@a4c97",
+    "assetFinder": {
+      "meshes": [
+        "0b1bb37e-a0a9-461b-83c5-162290e05914@2fa04"
+      ],
+      "skeletons": [],
+      "textures": [
+        "0b1bb37e-a0a9-461b-83c5-162290e05914@4f17a"
+      ],
+      "materials": [
+        "885812f2-549e-46cc-81a0-dd099680213e"
+      ],
+      "scenes": [
+        "0b1bb37e-a0a9-461b-83c5-162290e05914@a4c97"
+      ]
+    },
+    "dumpMaterials": true,
+    "legacyFbxImporter": true,
+    "fbx": {
+      "smartMaterialEnabled": false
+    },
+    "materialDumpDir": "db://assets/model/CityProp/Materials_Prop_Hydrant 1"
+  }
+}

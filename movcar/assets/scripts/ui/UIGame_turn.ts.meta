@@ -1,0 +1,12 @@
+{
+  "ver": "4.0.23",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "cbcc02da-7fd1-4b40-ae41-180c2dd208db",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "moduleId": "project:///assets/scripts/ui/UIGame_turn.js",
+    "simulateGlobals": []
+  }
+}

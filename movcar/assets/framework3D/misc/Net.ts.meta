@@ -1,0 +1,12 @@
+{
+  "ver": "4.0.23",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "54f7a583-ecdf-468a-babc-bb99558da855",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "moduleId": "project:///assets/framework3D/misc/Net.js",
+    "simulateGlobals": []
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "ver": "2.2.0",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "98e61503-28db-423b-851a-5aa48cdb1a18",
+  "files": [],
+  "subMetas": {
+    "ceeee": {
+      "importer": "gltf-mesh",
+      "uuid": "98e61503-28db-423b-851a-5aa48cdb1a18@ceeee",
+      "displayName": "",
+      "id": "ceeee",
+      "name": "Building_Shop_2_A__1_.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    },
+    "fd73d": {
+      "importer": "gltf-embeded-image",
+      "uuid": "98e61503-28db-423b-851a-5aa48cdb1a18@fd73d",
+      "displayName": "",
+      "id": "fd73d",
+      "name": "DiffuseColor_Texture.image",
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    },
+    "4f17a": {
+      "importer": "texture",
+      "uuid": "98e61503-28db-423b-851a-5aa48cdb1a18@4f17a",
+      "displayName": "",
+      "id": "4f17a",
+      "name": "DiffuseColor_Texture.texture",
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "98e61503-28db-423b-851a-5aa48cdb1a18@fd73d"
+      }
+    },
+    "e73cb": {
+      "importer": "gltf-material",
+      "uuid": "98e61503-28db-423b-851a-5aa48cdb1a18@e73cb",
+      "displayName": "",
+      "id": "e73cb",
+      "name": "Building_Shop_2.material",
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    },
+    "d523c": {
+      "importer": "gltf-scene",
+      "uuid": "98e61503-28db-423b-851a-5aa48cdb1a18@d523c",
+      "displayName": "",
+      "id": "d523c",
+      "name": "Building_Shop_2_A.prefab",
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "DiffuseColor_Texture",
+        "uri": "98e61503-28db-423b-851a-5aa48cdb1a18@fd73d"
+      }
+    ],
+    "redirect": "98e61503-28db-423b-851a-5aa48cdb1a18@d523c",
+    "assetFinder": {
+      "meshes": [
+        "98e61503-28db-423b-851a-5aa48cdb1a18@ceeee"
+      ],
+      "skeletons": [],
+      "textures": [
+        "98e61503-28db-423b-851a-5aa48cdb1a18@4f17a"
+      ],
+      "materials": [
+        "98e61503-28db-423b-851a-5aa48cdb1a18@e73cb"
+      ],
+      "scenes": [
+        "98e61503-28db-423b-851a-5aa48cdb1a18@d523c"
+      ]
+    },
+    "legacyFbxImporter": true,
+    "fbx": {
+      "smartMaterialEnabled": false
+    }
+  }
+}

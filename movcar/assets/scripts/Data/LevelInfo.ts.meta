@@ -1,0 +1,12 @@
+{
+  "ver": "4.0.23",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "66f2dd1b-0733-48d9-ba6d-a53f8f10a11e",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "moduleId": "project:///assets/scripts/Data/LevelInfo.js",
+    "simulateGlobals": []
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "ver": "4.0.23",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "d4512849-36c3-47e1-826c-4cfbcfdd67d2",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "moduleId": "project:///assets/scripts/games/dodge/DodgeLevel.js",
+    "simulateGlobals": []
+  }
+}

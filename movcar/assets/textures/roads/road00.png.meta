@@ -1,0 +1,42 @@
+{
+  "ver": "1.0.23",
+  "importer": "image",
+  "imported": true,
+  "uuid": "89ddd6f0-713b-4308-a8f3-84961f1241b4",
+  "files": [
+    ".json",
+    ".png"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "89ddd6f0-713b-4308-a8f3-84961f1241b4@6c48a",
+      "displayName": "road00",
+      "id": "6c48a",
+      "name": "texture",
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "89ddd6f0-713b-4308-a8f3-84961f1241b4"
+      }
+    }
+  },
+  "userData": {
+    "type": "texture",
+    "redirect": "89ddd6f0-713b-4308-a8f3-84961f1241b4@6c48a",
+    "fixAlphaTransparencyArtifacts": false,
+    "hasAlpha": false
+  }
+}

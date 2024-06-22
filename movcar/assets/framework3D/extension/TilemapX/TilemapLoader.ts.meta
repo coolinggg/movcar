@@ -1,0 +1,12 @@
+{
+  "ver": "4.0.23",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "fd471ec5-0a59-44c2-80a4-fa7b31307123",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "moduleId": "project:///assets/framework3D/extension/TilemapX/TilemapLoader.js",
+    "simulateGlobals": []
+  }
+}

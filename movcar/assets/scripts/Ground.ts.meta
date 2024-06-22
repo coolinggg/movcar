@@ -1,0 +1,12 @@
+{
+  "ver": "4.0.23",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "6dddb173-f35c-46fa-8458-ffbcfebf518e",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "moduleId": "project:///assets/scripts/Ground.js",
+    "simulateGlobals": []
+  }
+}

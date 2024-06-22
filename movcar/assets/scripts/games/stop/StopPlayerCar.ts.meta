@@ -1,0 +1,12 @@
+{
+  "ver": "4.0.23",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "eba0b5a7-cc0d-4555-95af-28afd4eb5b69",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "moduleId": "project:///assets/scripts/games/stop/StopPlayerCar.js",
+    "simulateGlobals": []
+  }
+}

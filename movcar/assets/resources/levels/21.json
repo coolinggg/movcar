@@ -1,0 +1,31 @@
+{ "height":14,
+ "infinite":false,
+ "layers":[
+        {
+         "data":[1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 1, 2, 2, 5, 5, 0, 0, 3, 3, 0, 0, 1, 2, 2, 5, 5, 0, 0, 3, 3, 0, 0, 1, 2, 2, 5, 5, 6, 6, 3, 3, 0, 0, 1, 2, 2, 0, 0, 6, 6, 4, 4, 0, 0, 1, 0, 3, 3, 3, 6, 6, 4, 4, 0, 0, 1, 0, 3, 3, 3, 6, 6, 4, 4, 0, 0, 1, 0, 5, 5, 5, 5, 5, 4, 4, 0, 0, 1, 0, 5, 5, 5, 5, 5, 4, 4, 0, 0, 1, 0, 0, 0, 2, 2, 2, 2, 2, 0, 0, 1, 0, 0, 0, 2, 2, 2, 2, 2, 0, 0, 1, 7, 7, 7, 7, 7, 0, 0, 0, 0, 0, 1, 7, 7, 7, 7, 7, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+         "height":14,
+         "id":6,
+         "name":"layer",
+         "opacity":0.9,
+         "type":"tilelayer",
+         "visible":true,
+         "width":11,
+         "x":0,
+         "y":0
+        }],
+ "nextlayerid":7,
+ "nextobjectid":22,
+ "orientation":"orthogonal",
+ "renderorder":"right-down",
+ "tiledversion":"1.2.4",
+ "tileheight":32,
+ "tilesets":[
+        {
+         "firstgid":1,
+         "source":"tilesets.tsx"
+        }],
+ "tilewidth":32,
+ "type":"map",
+ "version":1.2,
+ "width":11
+}

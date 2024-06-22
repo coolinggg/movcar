@@ -1,0 +1,127 @@
+{
+  "ver": "2.2.0",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "aff5c8c2-038a-4ef0-9968-d60d57f864b7",
+  "files": [],
+  "subMetas": {
+    "9f5c3": {
+      "importer": "gltf-mesh",
+      "uuid": "aff5c8c2-038a-4ef0-9968-d60d57f864b7@9f5c3",
+      "displayName": "",
+      "id": "9f5c3",
+      "name": "CoffeUmbrella.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    },
+    "fd73d": {
+      "importer": "gltf-embeded-image",
+      "uuid": "aff5c8c2-038a-4ef0-9968-d60d57f864b7@fd73d",
+      "displayName": "",
+      "id": "fd73d",
+      "name": "DiffuseColor_Texture.image",
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    },
+    "4f17a": {
+      "importer": "texture",
+      "uuid": "aff5c8c2-038a-4ef0-9968-d60d57f864b7@4f17a",
+      "displayName": "",
+      "id": "4f17a",
+      "name": "DiffuseColor_Texture.texture",
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "aff5c8c2-038a-4ef0-9968-d60d57f864b7@fd73d"
+      }
+    },
+    "d26b2": {
+      "importer": "gltf-material",
+      "uuid": "aff5c8c2-038a-4ef0-9968-d60d57f864b7@d26b2",
+      "displayName": "",
+      "id": "d26b2",
+      "name": "CityProps_2.material",
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    },
+    "985b6": {
+      "importer": "gltf-scene",
+      "uuid": "aff5c8c2-038a-4ef0-9968-d60d57f864b7@985b6",
+      "displayName": "",
+      "id": "985b6",
+      "name": "CoffeUmbrella.prefab",
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "DiffuseColor_Texture",
+        "uri": "aff5c8c2-038a-4ef0-9968-d60d57f864b7@fd73d"
+      }
+    ],
+    "redirect": "aff5c8c2-038a-4ef0-9968-d60d57f864b7@985b6",
+    "assetFinder": {
+      "meshes": [
+        "aff5c8c2-038a-4ef0-9968-d60d57f864b7@9f5c3"
+      ],
+      "skeletons": [],
+      "textures": [
+        "aff5c8c2-038a-4ef0-9968-d60d57f864b7@4f17a"
+      ],
+      "materials": [
+        "aff5c8c2-038a-4ef0-9968-d60d57f864b7@d26b2"
+      ],
+      "scenes": [
+        "aff5c8c2-038a-4ef0-9968-d60d57f864b7@985b6"
+      ]
+    },
+    "legacyFbxImporter": true,
+    "fbx": {
+      "smartMaterialEnabled": false
+    }
+  }
+}

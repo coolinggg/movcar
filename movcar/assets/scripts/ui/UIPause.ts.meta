@@ -1,0 +1,12 @@
+{
+  "ver": "4.0.23",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "6b50a444-40b5-4d2f-9003-cd3ffdeefe6a",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "moduleId": "project:///assets/scripts/ui/UIPause.js",
+    "simulateGlobals": []
+  }
+}

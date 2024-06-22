@@ -1,0 +1,12 @@
+{
+  "ver": "4.0.23",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "e6281dc7-cfba-4a25-9761-1e28fc335f42",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "moduleId": "project:///assets/scripts/ui/UIGame.js",
+    "simulateGlobals": []
+  }
+}

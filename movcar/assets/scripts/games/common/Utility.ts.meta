@@ -1,0 +1,12 @@
+{
+  "ver": "4.0.23",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "53187c3e-cb49-4c8d-b1a0-4d64ec1857a0",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "moduleId": "project:///assets/scripts/games/common/Utility.js",
+    "simulateGlobals": []
+  }
+}

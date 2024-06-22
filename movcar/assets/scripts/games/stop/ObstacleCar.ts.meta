@@ -1,0 +1,12 @@
+{
+  "ver": "4.0.23",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "ed0cf114-f615-41af-8c6d-6e2b784b775f",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "moduleId": "project:///assets/scripts/games/stop/ObstacleCar.js",
+    "simulateGlobals": []
+  }
+}

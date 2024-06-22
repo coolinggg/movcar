@@ -1,0 +1,123 @@
+{
+  "ver": "2.2.0",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "8b82fa58-db41-4102-b6d4-11b80932f87d",
+  "files": [],
+  "subMetas": {
+    "e6d84": {
+      "importer": "gltf-mesh",
+      "uuid": "8b82fa58-db41-4102-b6d4-11b80932f87d@e6d84",
+      "displayName": "",
+      "id": "e6d84",
+      "name": "M_SA_Police_01.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    },
+    "38a74": {
+      "importer": "gltf-embeded-image",
+      "uuid": "8b82fa58-db41-4102-b6d4-11b80932f87d@38a74",
+      "displayName": "",
+      "id": "38a74",
+      "name": "M_SA_Police_01.image",
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    },
+    "e39f7": {
+      "importer": "texture",
+      "uuid": "8b82fa58-db41-4102-b6d4-11b80932f87d@e39f7",
+      "displayName": "",
+      "id": "e39f7",
+      "name": "UnnamedTexture.texture",
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "8b82fa58-db41-4102-b6d4-11b80932f87d@38a74"
+      }
+    },
+    "b88e6": {
+      "importer": "gltf-material",
+      "uuid": "8b82fa58-db41-4102-b6d4-11b80932f87d@b88e6",
+      "displayName": "",
+      "id": "b88e6",
+      "name": "Default OBJ.material",
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    },
+    "8c435": {
+      "importer": "gltf-scene",
+      "uuid": "8b82fa58-db41-4102-b6d4-11b80932f87d@8c435",
+      "displayName": "",
+      "id": "8c435",
+      "name": "police.prefab",
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "M_SA_Police_01",
+        "uri": "8b82fa58-db41-4102-b6d4-11b80932f87d@38a74"
+      }
+    ],
+    "redirect": "8b82fa58-db41-4102-b6d4-11b80932f87d@8c435",
+    "assetFinder": {
+      "meshes": [
+        "8b82fa58-db41-4102-b6d4-11b80932f87d@e6d84"
+      ],
+      "skeletons": [],
+      "textures": [
+        "8b82fa58-db41-4102-b6d4-11b80932f87d@e39f7"
+      ],
+      "materials": [
+        "8b82fa58-db41-4102-b6d4-11b80932f87d@b88e6"
+      ],
+      "scenes": [
+        "8b82fa58-db41-4102-b6d4-11b80932f87d@8c435"
+      ]
+    }
+  }
+}

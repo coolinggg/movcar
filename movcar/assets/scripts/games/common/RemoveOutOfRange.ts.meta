@@ -1,0 +1,12 @@
+{
+  "ver": "4.0.23",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "53b97fc9-f59e-4d54-82a0-899372a061b5",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "moduleId": "project:///assets/scripts/games/common/RemoveOutOfRange.js",
+    "simulateGlobals": []
+  }
+}

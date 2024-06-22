@@ -1,0 +1,20 @@
+{
+  "general": {
+    "designResolution": {
+      "width": 750,
+      "height": 1334,
+      "fitHeight": true,
+      "fitWidth": false
+    }
+  },
+  "layer": [
+    {
+      "name": "Obstacle",
+      "value": 1
+    },
+    {
+      "name": "Player",
+      "value": 2
+    }
+  ]
+}

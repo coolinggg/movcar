@@ -1,0 +1,12 @@
+{
+  "ver": "4.0.23",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "c803e463-f8ee-4e10-bbb4-1ef9c496ca3d",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "moduleId": "project:///assets/scripts/games/stop/ObstacleCarSpawner.js",
+    "simulateGlobals": []
+  }
+}

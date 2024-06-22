@@ -1,0 +1,113 @@
+{
+  "ver": "2.2.0",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "bb4d6a93-50be-4c92-92a7-c6b090b39885",
+  "files": [],
+  "subMetas": {
+    "dd1d4": {
+      "importer": "gltf-mesh",
+      "uuid": "bb4d6a93-50be-4c92-92a7-c6b090b39885@dd1d4",
+      "displayName": "",
+      "id": "dd1d4",
+      "name": "FlowerPot.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    },
+    "fd73d": {
+      "importer": "gltf-embeded-image",
+      "uuid": "bb4d6a93-50be-4c92-92a7-c6b090b39885@fd73d",
+      "displayName": "",
+      "id": "fd73d",
+      "name": "DiffuseColor_Texture.image",
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    },
+    "4f17a": {
+      "importer": "texture",
+      "uuid": "bb4d6a93-50be-4c92-92a7-c6b090b39885@4f17a",
+      "displayName": "",
+      "id": "4f17a",
+      "name": "DiffuseColor_Texture.texture",
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "bb4d6a93-50be-4c92-92a7-c6b090b39885@fd73d"
+      }
+    },
+    "4e3f1": {
+      "importer": "gltf-scene",
+      "uuid": "bb4d6a93-50be-4c92-92a7-c6b090b39885@4e3f1",
+      "displayName": "",
+      "id": "4e3f1",
+      "name": "FlowerPot.prefab",
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "DiffuseColor_Texture",
+        "uri": "bb4d6a93-50be-4c92-92a7-c6b090b39885@fd73d"
+      }
+    ],
+    "redirect": "bb4d6a93-50be-4c92-92a7-c6b090b39885@4e3f1",
+    "assetFinder": {
+      "meshes": [
+        "bb4d6a93-50be-4c92-92a7-c6b090b39885@dd1d4"
+      ],
+      "skeletons": [],
+      "textures": [
+        "bb4d6a93-50be-4c92-92a7-c6b090b39885@4f17a"
+      ],
+      "materials": [
+        "e98079cf-97b8-44c9-8517-0efa15abb7b4"
+      ],
+      "scenes": [
+        "bb4d6a93-50be-4c92-92a7-c6b090b39885@4e3f1"
+      ]
+    },
+    "dumpMaterials": true,
+    "legacyFbxImporter": true,
+    "fbx": {
+      "smartMaterialEnabled": false
+    },
+    "materialDumpDir": "db://assets/model/CityProp/Materials_FlowerPot"
+  }
+}

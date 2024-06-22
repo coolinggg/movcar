@@ -1,0 +1,12 @@
+{
+  "ver": "4.0.23",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "ffea2cc1-4b1e-4ffa-8ba1-9f4511416da6",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "moduleId": "project:///assets/framework3D/extension/aldsdk/StatHelper.js",
+    "simulateGlobals": []
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "ver": "4.0.23",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "36fa8ac5-8be0-4742-aa0b-356957f8e058",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "moduleId": "project:///assets/framework3D/extension/FizzX/FizzBody.js",
+    "simulateGlobals": []
+  }
+}

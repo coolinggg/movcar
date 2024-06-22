@@ -1,0 +1,12 @@
+{
+  "ver": "4.0.23",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "1fd1c6e3-75d5-41e3-8a23-bde005278e28",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "moduleId": "project:///assets/scripts/MapPath.js",
+    "simulateGlobals": []
+  }
+}

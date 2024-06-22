@@ -1,0 +1,12 @@
+{
+  "ver": "4.0.23",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "add51e4a-345f-4c51-91df-a219e8d102ea",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "moduleId": "project:///assets/framework3D/misc/LoadingSceneBase.js",
+    "simulateGlobals": []
+  }
+}

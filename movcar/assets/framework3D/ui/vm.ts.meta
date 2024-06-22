@@ -1,0 +1,12 @@
+{
+  "ver": "4.0.23",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "25ab5b6a-46f9-412e-8182-f260957a7f6a",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "moduleId": "project:///assets/framework3D/ui/vm.js",
+    "simulateGlobals": []
+  }
+}

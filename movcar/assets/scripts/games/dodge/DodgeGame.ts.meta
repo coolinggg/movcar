@@ -1,0 +1,12 @@
+{
+  "ver": "4.0.23",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "e8605001-006a-494e-be6c-cc6adb1d11a2",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "moduleId": "project:///assets/scripts/games/dodge/DodgeGame.js",
+    "simulateGlobals": []
+  }
+}

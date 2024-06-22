@@ -1,0 +1,12 @@
+{
+  "ver": "4.0.23",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "dd55a301-5a90-4319-91de-ca3e4d09479b",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "moduleId": "project:///assets/scripts/Exit.js",
+    "simulateGlobals": []
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "ver": "2.2.0",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "601cf494-7fa7-4b31-b6a2-90765d22b39e",
+  "files": [],
+  "subMetas": {
+    "eb0dd": {
+      "importer": "gltf-mesh",
+      "uuid": "601cf494-7fa7-4b31-b6a2-90765d22b39e@eb0dd",
+      "displayName": "",
+      "id": "eb0dd",
+      "name": "TrafficCone.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    },
+    "fd73d": {
+      "importer": "gltf-embeded-image",
+      "uuid": "601cf494-7fa7-4b31-b6a2-90765d22b39e@fd73d",
+      "displayName": "",
+      "id": "fd73d",
+      "name": "DiffuseColor_Texture.image",
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    },
+    "4f17a": {
+      "importer": "texture",
+      "uuid": "601cf494-7fa7-4b31-b6a2-90765d22b39e@4f17a",
+      "displayName": "",
+      "id": "4f17a",
+      "name": "DiffuseColor_Texture.texture",
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "601cf494-7fa7-4b31-b6a2-90765d22b39e@fd73d"
+      }
+    },
+    "344e0": {
+      "importer": "gltf-scene",
+      "uuid": "601cf494-7fa7-4b31-b6a2-90765d22b39e@344e0",
+      "displayName": "",
+      "id": "344e0",
+      "name": "TrafficCone.prefab",
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "DiffuseColor_Texture",
+        "uri": "601cf494-7fa7-4b31-b6a2-90765d22b39e@fd73d"
+      }
+    ],
+    "redirect": "601cf494-7fa7-4b31-b6a2-90765d22b39e@344e0",
+    "assetFinder": {
+      "meshes": [
+        "601cf494-7fa7-4b31-b6a2-90765d22b39e@eb0dd"
+      ],
+      "skeletons": [],
+      "textures": [
+        "601cf494-7fa7-4b31-b6a2-90765d22b39e@4f17a"
+      ],
+      "materials": [
+        "182ead7d-437e-4493-9719-d34803dc2441"
+      ],
+      "scenes": [
+        "601cf494-7fa7-4b31-b6a2-90765d22b39e@344e0"
+      ]
+    },
+    "dumpMaterials": true,
+    "legacyFbxImporter": true,
+    "fbx": {
+      "smartMaterialEnabled": false
+    },
+    "materialDumpDir": "db://assets/model/CityProp/Materials_TrafficCone"
+  }
+}

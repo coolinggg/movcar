@@ -1,0 +1,12 @@
+{
+  "ver": "4.0.23",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "9d406e4b-9b12-421d-a9f1-96f9faddc0dc",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "moduleId": "project:///assets/scripts/ui/UILose.js",
+    "simulateGlobals": []
+  }
+}

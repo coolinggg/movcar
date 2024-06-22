@@ -1,0 +1,12 @@
+{
+  "ver": "4.0.23",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "4dab645d-b6f2-427f-945f-191c406ae53f",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "moduleId": "project:///assets/scripts/Tiling.js",
+    "simulateGlobals": []
+  }
+}
